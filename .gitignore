@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+*/node_modules
 /.pnp
 .pnp.js
 
@@ -21,3 +22,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/part1/node_modules
+/part1/anecdotes/node_modules
+/part2/coursesinfo/node_modules
+/part1/unicafe/node_modules
+/part2/part2-b/node_modules
