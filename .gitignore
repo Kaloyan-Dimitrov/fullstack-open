@@ -26,6 +26,6 @@ yarn-error.log*
 /part1/anecdotes/node_modules
 /part2/coursesinfo/node_modules
 /part1/unicafe/node_modules
-/part2/part2-b/node_modules
+/part2/part2-content/node_modules
 /part2/phonebook/node_modules
 /part2/countries/node_modules
